@@ -2,7 +2,6 @@
 # Stand: 2025-09-08
 
 #facebook
-(^|\.)facebook\.com$
 facebook.com
 fbcdn.net
 fb.me
