@@ -1,8 +1,14 @@
+# Pi-hole Blockliste
+# Stand: 2025-09-08
+
+#facebook
 facebook.com
 fbcdn.net
 fb.me
 instagram.com
 cdninstagram.com
+
+#tiktok
 tiktok.com
 tiktokcdn.com
 ttwstatic.com
@@ -11,6 +17,8 @@ tiktok.com
 tiktokcdn.com
 ttwstatic.com
 muscdn.com
+
+#snapchat
 snapchat.com
 sc-cdn.net
 sc-gw.com
