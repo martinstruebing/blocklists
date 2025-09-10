@@ -5,6 +5,8 @@
 facebook.com
 fbcdn.net
 fb.me
+
+#instagram
 instagram.com
 cdninstagram.com
 
@@ -23,3 +25,9 @@ snapchat.com
 sc-cdn.net
 sc-gw.com
 snap-kit.com
+
+#doh
+cloudflare-dns.com
+dns.google
+dns.quad9.net
+dns.nextdns.io
